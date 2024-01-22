@@ -11,4 +11,4 @@ function squareDigits(num) {
 }
 
 // Example usage
-console.log(squareDigits(3212));
+console.log(squareDigits(3413));
